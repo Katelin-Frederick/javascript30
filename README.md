@@ -16,4 +16,4 @@ Katelin Frederick 2018
 
 ## Purpose of this Project
 The purpose of this project was to expand on my knowledge of javascript.
-This collection is incomplete as I as currently working my way through the course.
+This collection is incomplete as I am currently working my way through the course.
